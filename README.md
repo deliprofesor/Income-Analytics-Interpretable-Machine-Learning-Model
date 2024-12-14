@@ -1,5 +1,7 @@
 # Income Prediction and Model Explainability using Random Forest, DALEX, and LIME
 
+![adult](https://github.com/user-attachments/assets/99e1ef19-0b9f-4c98-9ffd-5959742dd933)
+
 ## Project Overview
 
 This project aims to predict the income of individuals based on various demographic and employment-related features using machine learning techniques. A **Random Forest** model is used for classification, and two powerful explainability tools, **DALEX** and **LIME**, are employed to interpret and visualize the model's predictions. This helps in understanding which features are the most influential in determining the income class (e.g., ">50K" or "<=50K").
